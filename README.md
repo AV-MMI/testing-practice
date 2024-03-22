@@ -27,7 +27,7 @@ Testing practice from The Odin Project using Jest
     * function that takes a string and a shift factor and returns it with each character “shifted
 <br>
 
-- [XS] analyzeArr()
+- [X] analyzeArr()
     * function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
 
