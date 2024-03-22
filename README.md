@@ -23,7 +23,7 @@ Testing practice from The Odin Project using Jest
     - [X] multiply()
 <br>
 
-- [ ] caesarCipher():
+- [X] caesarCipher():
     * function that takes a string and a shift factor and returns it with each character “shifted
 <br>
 
