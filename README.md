@@ -15,7 +15,7 @@ Testing practice from The Odin Project using Jest
     * function that takes a string and returns it reversed.
 <br>
 
-- [X] calculate{}
+- [X] calculate{}:
     * object that contains functions for the basic operations. Each of these functions should take two numbers and return the correct calculation.
     - [X] add()
     - [X] substract()
@@ -23,11 +23,11 @@ Testing practice from The Odin Project using Jest
     - [X] multiply()
 <br>
 
-- [ ] caesarCipher()
+- [ ] caesarCipher():
     * function that takes a string and a shift factor and returns it with each character “shifted
 <br>
 
-- [X] analyzeArr()
+- [X] analyzeArr():
     * function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
 
