@@ -1,0 +1,30 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing project from The Odin Project to familiarize with jest and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AV-MMI/testing-practice.git"
+  },
+  "keywords": [
+    "jest",
+    "tdd"
+  ],
+  "author": "AV-MMI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AV-MMI/testing-practice/issues"
+  },
+  "homepage": "https://github.com/AV-MMI/testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}

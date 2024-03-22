@@ -10,20 +10,20 @@ Testing practice from The Odin Project using Jest
 - [X] capitalize():
     * function that takes a string and returns it with the first character capitalized.
 <br>
-- [ ] resolveStr(): 
+- [X] resolveStr(): 
     * function that takes a string and returns it reversed.
 <br>
-- [ ] calculate{}
+- [X] calculate{}
     * object that contains functions for the basic operations. Each of these functions should take two numbers and return the correct calculation.
-    - [ ] add()
-    - [ ] substract()
-    - [ ] divide()
-    - [ ] multiply()
+    - [X] add()
+    - [X] substract()
+    - [X] divide()
+    - [X] multiply()
 <br>
 - [ ] caesarCipher()
     * function that takes a string and a shift factor and returns it with each character “shifted
 <br>
-- [ ] analyzeArr()
+- [XS] analyzeArr()
     * function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
 
